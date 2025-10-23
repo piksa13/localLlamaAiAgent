@@ -1,4 +1,4 @@
-# localLlamaAiAgent
+# localLlamaAiAgent with RAG
 
 localLlamaAiAgent is a **RAG** Retrieval-Augmented Generation(combines language model & external knowledge) that uses the LangChain framework, Ollama and Chroma DB to build AI agents capable of local language model inference and data processing.
 
